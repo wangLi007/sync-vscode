@@ -1,0 +1,56 @@
+{
+  "[javascript]": {
+    "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "vue-html",
+    "vue"
+  ],
+  "eslint.run": "onSave",
+  // "eslint.autoFixOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  // tab 大小为2个空格
+  "editor.tabSize": 2,
+  // // 保存时格式化
+  "editor.formatOnSave": true,
+  // // 开启 vscode 文件路径导航
+  "breadcrumbs.enabled": true,
+  //  显示 markdown 中英文切换时产生的特殊字符
+  "editor.renderControlCharacters": true,
+  // eslint 检测文件类型
+  "vetur.format.options.tabSize": 2,
+  "vetur.format.defaultFormatter.html": "prettyhtml",
+  "vetur.format.defaultFormatterOptions": {
+    "js-beautify-html": {
+      "wrap_attributes": "auto",
+      "semi": false,
+      "singleQuote": true
+    },
+    "prettyhtml": {
+      "printWidth": 200,
+      "singleQuote": false,
+      "wrapAttributes": false,
+      "sortAttributes": false
+    },
+    "prettier": {
+      "semi": false,
+      "singleQuote": true
+    }
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+  },
+  "workbench.colorTheme": "Default Dark+",
+  "diffEditor.codeLens": true,
+  "diffEditor.wordWrap": "on",
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.detectIndentation": false,
+  "liveServer.settings.port": 80 //Live Server默认端口
+}

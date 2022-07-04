@@ -1,0 +1,65 @@
+{
+    "telemetry.machineId": "e47a0fbe7af5e4344e6fbb7af765880ee78bd0c697277b2bc0a3a41a51aff73f",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///c%3A/Users/Administrator/Desktop/wangli/STI%20Dao",
+            "backupPath": "C:\\Users\\Administrator\\AppData\\Roaming\\Code\\Backups\\f08e63b5c4948c783b5788f9f669a02f",
+            "uiState": {
+                "mode": 0,
+                "x": 2368,
+                "y": 156,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": [
+            {
+                "folder": "file:///c%3A/Users/Administrator/Desktop/wangli/STI%20Dao",
+                "backupPath": "C:\\Users\\Administrator\\AppData\\Roaming\\Code\\Backups\\f08e63b5c4948c783b5788f9f669a02f",
+                "uiState": {
+                    "mode": 0,
+                    "x": 2368,
+                    "y": 156,
+                    "width": 1024,
+                    "height": 768
+                }
+            },
+            {
+                "folder": "file:///c%3A/",
+                "backupPath": "C:\\Users\\Administrator\\AppData\\Roaming\\Code\\Backups\\b039d5ccdc96ee3ca35d2105de66e182",
+                "uiState": {
+                    "mode": 1,
+                    "x": 2272,
+                    "y": 265,
+                    "width": 1024,
+                    "height": 768
+                }
+            }
+        ]
+    },
+    "windowSplash": {
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1e1e1e",
+            "editorBackground": "#1e1e1e",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#333333",
+            "sideBarBackground": "#252526",
+            "statusBarBackground": "#007acc",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 30,
+            "activityBarWidth": 48,
+            "sideBarWidth": 468,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "pickerWorkingDir": "C:\\Users\\Administrator\\Desktop\\wangli"
+}

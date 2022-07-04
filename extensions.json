@@ -1,0 +1,232 @@
+[
+  {
+    "metadata": {
+      "id": "d3836729-9cc1-42c1-b2af-d50071f57d29",
+      "publisherId": "formulahendry.auto-close-tag",
+      "publisherDisplayName": "formulahendry"
+    },
+    "name": "auto-close-tag",
+    "publisher": "formulahendry",
+    "version": "0.5.14"
+  },
+  {
+    "metadata": {
+      "id": "366a9f01-2d1b-48b9-b7df-014ff8dea46b",
+      "publisherId": "formulahendry.auto-complete-tag",
+      "publisherDisplayName": "formulahendry"
+    },
+    "name": "auto-complete-tag",
+    "publisher": "formulahendry",
+    "version": "0.1.0"
+  },
+  {
+    "metadata": {
+      "id": "6e440e71-8ed9-4f25-bb78-4b13096b8a03",
+      "publisherId": "formulahendry.auto-rename-tag",
+      "publisherDisplayName": "formulahendry"
+    },
+    "name": "auto-rename-tag",
+    "publisher": "formulahendry",
+    "version": "0.1.10"
+  },
+  {
+    "metadata": {
+      "id": "697255a9-3f36-44c8-b084-d3b91edfb23a",
+      "publisherId": "HookyQR.beautify",
+      "publisherDisplayName": "HookyQR"
+    },
+    "name": "beautify",
+    "publisher": "HookyQR",
+    "version": "1.5.0"
+  },
+  {
+    "metadata": {
+      "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
+      "publisherId": "Shan.code-settings-sync",
+      "publisherDisplayName": "Shan"
+    },
+    "name": "code-settings-sync",
+    "publisher": "Shan",
+    "version": "3.4.3"
+  },
+  {
+    "metadata": {
+      "id": "ffc5b1ef-b383-414d-a362-0886a529251f",
+      "publisherId": "jamesmaj.easy-icons",
+      "publisherDisplayName": "jamesmaj"
+    },
+    "name": "easy-icons",
+    "publisher": "jamesmaj",
+    "version": "0.3.1"
+  },
+  {
+    "metadata": {
+      "id": "5960f38e-0bbe-4644-8f9c-9c8824e82511",
+      "publisherId": "donjayamanne.githistory",
+      "publisherDisplayName": "donjayamanne"
+    },
+    "name": "githistory",
+    "publisher": "donjayamanne",
+    "version": "0.6.19"
+  },
+  {
+    "metadata": {
+      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+      "publisherId": "eamodio.gitlens",
+      "publisherDisplayName": "eamodio"
+    },
+    "name": "gitlens",
+    "publisher": "eamodio",
+    "version": "12.1.1"
+  },
+  {
+    "metadata": {
+      "id": "be992f3f-9f22-4b66-a1d2-ecad04c28a28",
+      "publisherId": "abusaidm.html-snippets",
+      "publisherDisplayName": "abusaidm"
+    },
+    "name": "html-snippets",
+    "publisher": "abusaidm",
+    "version": "0.2.1"
+  },
+  {
+    "metadata": {
+      "id": "a2cec723-5349-460d-9de9-0fd1f8d3456f",
+      "publisherId": "xabikos.JavaScriptSnippets",
+      "publisherDisplayName": "xabikos"
+    },
+    "name": "JavaScriptSnippets",
+    "publisher": "xabikos",
+    "version": "1.8.0"
+  },
+  {
+    "metadata": {
+      "id": "6c2f1801-1e7f-45b2-9b5c-7782f1e076e8",
+      "publisherId": "ms-toolsai.jupyter",
+      "publisherDisplayName": "ms-toolsai"
+    },
+    "name": "jupyter",
+    "publisher": "ms-toolsai",
+    "version": "2022.5.1001601848"
+  },
+  {
+    "metadata": {
+      "id": "9f6dc8db-620c-4844-b8c5-e74914f1be27",
+      "publisherId": "ms-toolsai.jupyter-keymap",
+      "publisherDisplayName": "ms-toolsai"
+    },
+    "name": "jupyter-keymap",
+    "publisher": "ms-toolsai",
+    "version": "1.0.0"
+  },
+  {
+    "metadata": {
+      "id": "b15c72f8-d5fe-421a-a4f7-27ed9f6addbf",
+      "publisherId": "ms-toolsai.jupyter-renderers",
+      "publisherDisplayName": "ms-toolsai"
+    },
+    "name": "jupyter-renderers",
+    "publisher": "ms-toolsai",
+    "version": "1.0.8"
+  },
+  {
+    "metadata": {
+      "id": "b63c44fd-0457-4696-99e9-dbfdf70d77de",
+      "publisherId": "ritwickdey.LiveServer",
+      "publisherDisplayName": "ritwickdey"
+    },
+    "name": "LiveServer",
+    "publisher": "ritwickdey",
+    "version": "5.7.5"
+  },
+  {
+    "metadata": {
+      "id": "abe3854b-f5db-4fe8-9187-447239584b47",
+      "publisherId": "ConAntares.luke-dark-theme",
+      "publisherDisplayName": "ConAntares"
+    },
+    "name": "luke-dark-theme",
+    "publisher": "ConAntares",
+    "version": "1.0.5"
+  },
+  {
+    "metadata": {
+      "id": "fef63133-dae3-40fb-b81d-6da7617b4b1e",
+      "publisherId": "techer.open-in-browser",
+      "publisherDisplayName": "techer"
+    },
+    "name": "open-in-browser",
+    "publisher": "techer",
+    "version": "2.0.0"
+  },
+  {
+    "metadata": {
+      "id": "a41c1549-4053-44d4-bf30-60fc809b4a86",
+      "publisherId": "christian-kohler.path-intellisense",
+      "publisherDisplayName": "christian-kohler"
+    },
+    "name": "path-intellisense",
+    "publisher": "christian-kohler",
+    "version": "2.8.1"
+  },
+  {
+    "metadata": {
+      "id": "40d39ce9-c381-47a0-80c8-a6661f731eab",
+      "publisherId": "ms-vscode.powershell",
+      "publisherDisplayName": "ms-vscode"
+    },
+    "name": "powershell",
+    "publisher": "ms-vscode",
+    "version": "2022.6.1"
+  },
+  {
+    "metadata": {
+      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+      "publisherId": "esbenp.prettier-vscode",
+      "publisherDisplayName": "esbenp"
+    },
+    "name": "prettier-vscode",
+    "publisher": "esbenp",
+    "version": "9.5.0"
+  },
+  {
+    "metadata": {
+      "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
+      "publisherId": "ms-python.python",
+      "publisherDisplayName": "ms-python"
+    },
+    "name": "python",
+    "publisher": "ms-python",
+    "version": "2022.8.0"
+  },
+  {
+    "metadata": {
+      "id": "a5223b43-8621-4351-a14e-3d560f85f277",
+      "publisherId": "Vue.volar",
+      "publisherDisplayName": "Vue"
+    },
+    "name": "volar",
+    "publisher": "Vue",
+    "version": "0.38.1"
+  },
+  {
+    "metadata": {
+      "id": "e4ee7751-6514-4731-9cdb-7580ffa9e70b",
+      "publisherId": "MS-CEINTL.vscode-language-pack-zh-hans",
+      "publisherDisplayName": "MS-CEINTL"
+    },
+    "name": "vscode-language-pack-zh-hans",
+    "publisher": "MS-CEINTL",
+    "version": "1.68.6150916"
+  },
+  {
+    "metadata": {
+      "id": "364d2426-116a-433a-a5d8-a5098dc3afbd",
+      "publisherId": "ms-python.vscode-pylance",
+      "publisherDisplayName": "ms-python"
+    },
+    "name": "vscode-pylance",
+    "publisher": "ms-python",
+    "version": "2022.6.30"
+  }
+]

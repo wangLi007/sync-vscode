@@ -1,0 +1,50 @@
+{
+  "editor.tabSize": 2,
+
+  // 代码的格式化使用工具
+  "prettier.semi": true, // 语句结尾带分号
+  "prettier.singleQuote": true, // 单括号
+  "prettier.bracketSpacing": true, // 大括号内空格
+  "prettier.printWidth": 100, // 超过最大值换行
+  "prettier.proseWrap": "preserve",
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[less]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "workbench.colorTheme": "Luke Dark",
+  "sync.gist": "4279f5f4c47a90d9da5dac676fd521d3",
+  "prettier.vueIndentScriptAndStyle": true,
+  "editor.hover.delay": 100,
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "editor.hover.enabled": false,
+  "css.hover.references": false,
+  "less.hover.references": false,
+  "scss.hover.references": false,
+  "volar.codeLens.references": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "modifications",
+  "emmet.includeLanguages": {
+    "editor.formatOnType": "true",
+    "editor.formatOnSave": "true"
+  }
+}
